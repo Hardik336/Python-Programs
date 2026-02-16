@@ -1,0 +1,17 @@
+2026-02-13 11:57:06,812 - ERROR - Custom Exception
+Traceback (most recent call last):
+  File "d:\MCA Sem 2 Coding\Python\Syllabus Questions\Unit 2\Practice2_3.py", line 18, in <module>
+    raise InvalidAgeError("You must be 18 yers old !!")
+InvalidAgeError: You must be 18 yers old !!
+
+
+
+
+GIT PUSH COMMANDS
+
+git clone repo-path
+cd folder-name
+git add.
+git commit -m "commit message"
+git push origin main
+
