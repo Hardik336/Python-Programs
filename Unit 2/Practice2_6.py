@@ -1,0 +1,1 @@
+# 6) Write a program to read a file which contains only numbers. Display total of all numbers with maximum and minimum number.
